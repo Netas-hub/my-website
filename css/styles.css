@@ -1,0 +1,14 @@
+.background {
+    background-color:whitesmoke;
+    color: brown;
+}
+.faith {
+    border-radius: 50%;
+    border-image: round;
+    
+}
+.skill_img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
